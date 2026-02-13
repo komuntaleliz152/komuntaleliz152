@@ -12,8 +12,15 @@ Building full-stack applications and improving my skills across frontend and bac
 
  ## 📬 Contact Me
 
-[![Email](https://img.shields.io/badge/Email-komuntaleli152@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:komuntaleliz152@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/linkedin.com/in/elizabeth-komuntale-6b2968355/-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elizabeth-komuntale-6b2968355/)
+<p align="left">
+  <a href="mailto:komuntaleliz152@gmail.com" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gmail.svg" width="28" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://https://www.linkedin.com/in/elizabeth-komuntale-6b2968355/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" width="28" />
+  </a>
+</p>
 
 
  
