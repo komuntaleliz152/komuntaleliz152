@@ -9,5 +9,12 @@ I work effectively in team environments, participating in Scrum meetings, managi
 and ensuring smooth project delivery through clear communication and agile practices.
  Currently Working On
 Building full-stack applications and improving my skills across frontend and backend development.
- Contact
-LinkedIn https://www.linkedin.com/in/elizabeth-komuntale-6b2968355/  • Email komuntaleliz152@gmail.com   • Portfolio 
+
+ ## 📬 Contact Me
+
+[![Email](https://img.shields.io/badge/Email-yourname@email.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:komuntaleliz152@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-YourName-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elizabeth-komuntale-6b2968355/)
+
+
+ 
+
