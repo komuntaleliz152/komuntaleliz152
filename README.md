@@ -13,14 +13,15 @@ Building full-stack applications and improving my skills across frontend and bac
  ## 📬 Contact Me
 
 <p align="left">
-  <a href="mailto:komuntaleliz152@gmail.com" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gmail.svg" width="28" />
+  <a href="mailto:komunataleliz152@gmail.com">
+    <img src="https://img.icons8.com/color/48/gmail-new.png" width="28"/>
   </a>
   &nbsp;&nbsp;
-  <a href="https://https://www.linkedin.com/in/elizabeth-komuntale-6b2968355/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" width="28" />
+  <a href="https://www.linkedin.com/in/elizabeth-komuntale-6b2968355/">
+    <img src="https://img.icons8.com/color/48/linkedin.png" width="28"/>
   </a>
 </p>
+
 
 
  
